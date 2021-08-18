@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="731px" height="720px" viewBox="0 0 731 720" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M-10.2365,16.8465 L341.5435,16.8465 C344.641817,16.8465 347.1535,19.3581826 347.1535,22.4565 L347.1535,340.5435 C347.1535,343.641817 344.641817,346.1535 341.5435,346.1535 L-10.2365,346.1535 C-13.3348174,346.1535 -15.8465,343.641817 -15.8465,340.5435 L-15.8465,22.4565 C-15.8465,19.3581826 -13.3348174,16.8465 -10.2365,16.8465 Z" id="path-1"></path>
+        <filter x="-17.5%" y="-21.1%" width="138.3%" height="142.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="3" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.176470588   0 0 0 0 0.17254902   0 0 0 0 0.407843137  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="3" dy="0" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.176470588   0 0 0 0 0.17254902   0 0 0 0 0.407843137  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="91.4074762%" y1="-47.9249587%" x2="18.3549525%" y2="94.7641292%" id="linearGradient-3">
+            <stop stop-color="#2D78C8" offset="0%"></stop>
+            <stop stop-color="#0F4E93" offset="100%"></stop>
+        </linearGradient>
+        <path d="M139.61,-133 L197,-133 L197,196.307 L139.61,196.307 C136.511683,196.307 134,193.795317 134,190.697 L134,-127.39 C134,-130.488317 136.511683,-133 139.61,-133 Z" id="path-4"></path>
+        <filter x="-20.6%" y="-2.4%" width="141.3%" height="107.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.866666667   0 0 0 0 0.866666667   0 0 0 0 0.866666667  0 0 0 0.718778306 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="87.4158721%" y1="180.146701%" x2="9.52494146%" y2="-106.446279%" id="linearGradient-6">
+            <stop stop-color="#F89C46" offset="0%"></stop>
+            <stop stop-color="#F16343" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#F89C46" offset="0%"></stop>
+            <stop stop-color="#F16343" offset="100%"></stop>
+        </linearGradient>
+        <path d="M19,-14 L311,-14 C313.209139,-14 315,-12.209139 315,-10 L315,311 C315,313.209139 313.209139,315 311,315 L19,315 C16.790861,315 15,313.209139 15,311 L15,-10 C15,-12.209139 16.790861,-14 19,-14 Z" id="path-8"></path>
+        <filter x="-11.0%" y="-10.0%" width="122.0%" height="120.1%" filterUnits="objectBoundingBox" id="filter-9">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.176470588   0 0 0 0 0.17254902   0 0 0 0 0.407843137  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M22,-3.55271368e-15 L117,-3.55271368e-15 C129.150264,-5.78468106e-15 139,9.8497355 139,22 L139,22 C139,34.1502645 129.150264,44 117,44 L22,44 C9.8497355,44 1.48797825e-15,34.1502645 0,22 L0,22 C-1.48797825e-15,9.8497355 9.8497355,-1.3207463e-15 22,-3.55271368e-15 Z" id="path-10"></path>
+        <filter x="-14.7%" y="-42.0%" width="129.5%" height="193.2%" filterUnits="objectBoundingBox" id="filter-11">
+            <feMorphology radius="2.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.949019608   0 0 0 0 0.419607843   0 0 0 0 0.262745098  0 0 0 0.148947011 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M-11.2365,16.8465 L340.5435,16.8465 C343.641817,16.8465 346.1535,19.3581826 346.1535,22.4565 L346.1535,340.5435 C346.1535,343.641817 343.641817,346.1535 340.5435,346.1535 L-11.2365,346.1535 C-14.3348174,346.1535 -16.8465,343.641817 -16.8465,340.5435 L-16.8465,22.4565 C-16.8465,19.3581826 -14.3348174,16.8465 -11.2365,16.8465 Z" id="path-12"></path>
+        <filter x="-17.5%" y="-21.1%" width="138.3%" height="142.2%" filterUnits="objectBoundingBox" id="filter-13">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="3" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.176470588   0 0 0 0 0.17254902   0 0 0 0 0.407843137  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter2"></feMorphology>
+            <feOffset dx="3" dy="0" in="shadowSpreadOuter2" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.176470588   0 0 0 0 0.17254902   0 0 0 0 0.407843137  0 0 0 0.07 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="58.0484006%" y1="-228.061935%" x2="60.8350549%" y2="276.380944%" id="linearGradient-14">
+            <stop stop-color="#2D78C8" offset="0%"></stop>
+            <stop stop-color="#0F4E93" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Home_Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Cross_platform_4" transform="translate(-604.000000, -30.000000)">
+            <g id="Group-4" transform="translate(631.000000, 30.000000)">
+                <g id="Group" transform="translate(0.000000, 255.000000)">
+                    <g id="Mask" transform="translate(165.653500, 181.500000) rotate(-270.000000) translate(-165.653500, -181.500000) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="Mask" transform="translate(165.500000, 31.653500) rotate(-270.000000) translate(-165.500000, -31.653500) ">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="url(#linearGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <text id="Description-Copy-2" font-family="Muli-SemiBold, Muli" font-size="13.464" font-weight="500" line-spacing="13.464">
+                        <tspan x="29" y="94" fill="#333333">Fix the leak in the 1st Floor bathroom </tspan>
+                        <tspan x="31.3218563" y="115.524088" font-family="Muli" font-style="italic" font-weight="normal" fill="#999999">Due Today 05:00 PM</tspan>
+                    </text>
+                    <path d="M302.182809,97.5203015 C302.131299,97.6482305 302.050864,97.7681851 301.941504,97.871209 L296.807391,102.707867 C296.393926,103.097378 295.723565,103.097378 295.310099,102.707867 C294.896634,102.318356 294.896634,101.686834 295.310099,101.297323 L299.88501,96.9874695 L295.336702,92.7026766 C294.923236,92.3131658 294.923236,91.6816439 295.336702,91.2921331 C295.750167,90.9026223 296.420528,90.9026223 296.833994,91.2921331 L302.074516,96.2290352 C302.448022,96.5809018 302.48412,97.1302615 302.182809,97.5203015 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-6)" transform="translate(298.692308, 97.000000) rotate(-360.000000) translate(-298.692308, -97.000000) "></path>
+                    <path d="M302.182809,171.520302 C302.131299,171.648231 302.050864,171.768185 301.941504,171.871209 L296.807391,176.707867 C296.393926,177.097378 295.723565,177.097378 295.310099,176.707867 C294.896634,176.318356 294.896634,175.686834 295.310099,175.297323 L299.88501,170.987469 L295.336702,166.702677 C294.923236,166.313166 294.923236,165.681644 295.336702,165.292133 C295.750167,164.902622 296.420528,164.902622 296.833994,165.292133 L302.074516,170.229035 C302.448022,170.580902 302.48412,171.130262 302.182809,171.520302 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-6)" transform="translate(298.692308, 171.000000) rotate(-360.000000) translate(-298.692308, -171.000000) "></path>
+                    <path d="M302.182809,245.520302 C302.131299,245.648231 302.050864,245.768185 301.941504,245.871209 L296.807391,250.707867 C296.393926,251.097378 295.723565,251.097378 295.310099,250.707867 C294.896634,250.318356 294.896634,249.686834 295.310099,249.297323 L299.88501,244.987469 L295.336702,240.702677 C294.923236,240.313166 294.923236,239.681644 295.336702,239.292133 C295.750167,238.902622 296.420528,238.902622 296.833994,239.292133 L302.074516,244.229035 C302.448022,244.580902 302.48412,245.130262 302.182809,245.520302 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-6)" transform="translate(298.692308, 245.000000) rotate(-360.000000) translate(-298.692308, -245.000000) "></path>
+                    <path d="M302.182809,319.520302 C302.131299,319.648231 302.050864,319.768185 301.941504,319.871209 L296.807391,324.707867 C296.393926,325.097378 295.723565,325.097378 295.310099,324.707867 C294.896634,324.318356 294.896634,323.686834 295.310099,323.297323 L299.88501,318.987469 L295.336702,314.702677 C294.923236,314.313166 294.923236,313.681644 295.336702,313.292133 C295.750167,312.902622 296.420528,312.902622 296.833994,313.292133 L302.074516,318.229035 C302.448022,318.580902 302.48412,319.130262 302.182809,319.520302 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-6)" transform="translate(298.692308, 319.000000) rotate(-360.000000) translate(-298.692308, -319.000000) "></path>
+                    <text id="Description-Copy-2" font-family="Muli-SemiBold, Muli" font-size="13.464" font-weight="500" line-spacing="13.464">
+                        <tspan x="29" y="168" fill="#333333">Fix the tiles on the bedroom on gro… </tspan>
+                        <tspan x="31.3218563" y="189.524088" font-family="Muli" font-style="italic" font-weight="normal" fill="#999999">Due Today 06:00 PM</tspan>
+                    </text>
+                    <text id="Description-Copy-2" font-family="Muli-SemiBold, Muli" font-size="13.464" font-weight="500" line-spacing="13.464">
+                        <tspan x="29" y="242" fill="#333333">Fix the roofing on the car garage </tspan>
+                        <tspan x="31.3218563" y="263.524088" font-family="Muli" font-style="italic" font-weight="normal" fill="#999999">Due Today 09:00 PM</tspan>
+                    </text>
+                    <text id="Description-Copy-2" font-family="Muli-SemiBold, Muli" font-size="13.464" font-weight="500" line-spacing="13.464">
+                        <tspan x="29" y="316" fill="#333333">Replace pipes on the 2nd bathroom.. </tspan>
+                        <tspan x="31.3218563" y="337.524088" font-family="Muli" font-style="italic" font-weight="normal" fill="#999999">Due Today 12:00 PM</tspan>
+                    </text>
+                    <polygon id="Rectangle-9-Copy-3" fill="#DDDDDD" opacity="0.600000024" points="29 136 302.106 136 302.106 137.122 29 137.122"></polygon>
+                    <polygon id="Rectangle-9-Copy-4" fill="#DDDDDD" opacity="0.600000024" points="29 210 302.106 210 302.106 211.122 29 211.122"></polygon>
+                    <polygon id="Rectangle-9-Copy-4" fill="#DDDDDD" opacity="0.600000024" points="29 284 302.106 284 302.106 285.122 29 285.122"></polygon>
+                    <text id="Today-Tasks" opacity="0.900000036" font-family="Muli-ExtraBold, Muli" font-size="13.464" font-weight="600" fill="#FFFFFF">
+                        <tspan x="29" y="37">Today Tasks</tspan>
+                    </text>
+                </g>
+                <path d="M321,25 C321,38.8888889 332.111111,50 346,50 C359.888889,50 371,38.8888889 371,25 C371,11.1111111 359.888889,0 346,0 C332.111111,0 321,11.1111111 321,25 Z M343.222222,13.1944444 L343.222222,27.2755624 C343.222222,27.587717 343.383971,27.8775801 343.649626,28.0414948 L354.573081,34.7814992 C355.5241,35.3682983 356.76902,35.0964696 357.388889,34.1666667 L357.388889,34.1666667 C357.974013,33.2889812 357.736844,32.1031401 356.859159,31.5180164 C356.833951,31.5012115 356.808348,31.4850087 356.78237,31.4694218 L347.388889,25.8333333 L347.388889,13.1944444 C347.388889,12.0438512 346.456149,11.1111111 345.305556,11.1111111 L345.305556,11.1111111 C344.154962,11.1111111 343.222222,12.0438512 343.222222,13.1944444 Z" id="Shape-Copy" fill="url(#linearGradient-7)" opacity="0.200000003"></path>
+                <g id="Group-5" transform="translate(347.000000, 34.000000)">
+                    <g id="Group-2">
+                        <g id="Mask" transform="translate(165.000000, 150.500000) rotate(-270.000000) translate(-165.000000, -150.500000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        </g>
+                        <text id="Clock-Started-at-09:-Copy" font-family="Muli-SemiBold, Muli" font-size="12" font-weight="500" fill="#999999">
+                            <tspan x="118.99" y="162">Clock Started at</tspan>
+                            <tspan x="78.46" y="177">09:40AM, Wednesday, 23 OCT</tspan>
+                        </text>
+                        <text id="Clock-Running-Copy" font-family="Muli-Bold, Muli" font-size="14" font-weight="bold" fill="#0F4E93">
+                            <tspan x="117" y="53">Clock Running</tspan>
+                        </text>
+                        <g id="Group-2-Copy" transform="translate(113.000000, 77.000000)" font-weight="normal">
+                            <text id="45" font-family="Digital-7" font-size="46.464" fill="#333333">
+                                <tspan x="58.6608" y="34">45</tspan>
+                            </text>
+                            <text id="00" font-family="Digital-7" font-size="46.464" fill="#333333">
+                                <tspan x="0" y="34">04</tspan>
+                            </text>
+                            <text id=":" font-family="Digital-7" font-size="46.464" fill="#333333">
+                                <tspan x="48.2064" y="34">:</tspan>
+                            </text>
+                            <text id="Hrs" font-family="Montserrat-Regular, Montserrat" font-size="8.1312" fill="#999999">
+                                <tspan x="13.9392" y="50.9792">Hrs</tspan>
+                            </text>
+                            <text id="Min" font-family="Montserrat-Regular, Montserrat" font-size="8.1312" fill="#999999">
+                                <tspan x="72.6" y="50.9792">Min</tspan>
+                            </text>
+                        </g>
+                        <g id="CTA-Copy" transform="translate(95.000000, 220.000000)">
+                            <g id="Rectangle-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                                <use fill="url(#linearGradient-6)" fill-rule="evenodd" xlink:href="#path-10"></use>
+                            </g>
+                            <text id="Clock-Out" font-family="Montserrat-SemiBold, Montserrat" font-size="12" font-weight="500" fill="#FFFFFF">
+                                <tspan x="39.812" y="27">Clock Out</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-3" transform="translate(347.000000, 350.000000)">
+                    <g id="Group-Copy-2">
+                        <g id="Mask" transform="translate(164.653500, 181.500000) rotate(-270.000000) translate(-164.653500, -181.500000) ">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-13)" xlink:href="#path-12"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-12"></use>
+                        </g>
+                        <circle id="Mask" fill="url(#linearGradient-14)" cx="39.635" cy="97.635" r="19.635"></circle>
+                        <circle id="Mask-Copy" fill="url(#linearGradient-14)" cx="39.635" cy="170.635" r="19.635"></circle>
+                        <text id="HH" font-family="Muli-ExtraBold, Muli" font-size="13.464" font-weight="600" fill="#FFFFFF">
+                            <tspan x="29.511544" y="176">HH</tspan>
+                        </text>
+                        <circle id="Mask-Copy-2" fill="url(#linearGradient-14)" cx="39.635" cy="244.635" r="19.635"></circle>
+                        <text id="4E" font-family="Muli-ExtraBold, Muli" font-size="13.464" font-weight="600" fill="#FFFFFF">
+                            <tspan x="31.928332" y="250">4E</tspan>
+                        </text>
+                        <circle id="Mask-Copy-3" fill="url(#linearGradient-14)" cx="39.635" cy="319.635" r="19.635"></circle>
+                        <text id="7F" font-family="Muli-ExtraBold, Muli" font-size="13.464" font-weight="600" fill="#FFFFFF">
+                            <tspan x="32.069704" y="325">7F</tspan>
+                        </text>
+                        <text id="Description-Copy-2" font-family="Muli-SemiBold, Muli" font-size="13.464" font-weight="500" line-spacing="13.464">
+                            <tspan x="88" y="94" fill="#333333">Maples Villa </tspan>
+                            <tspan x="90.3218563" y="115.524088" font-family="Muli" font-style="italic" font-weight="normal" fill="#999999">Residential, Construction</tspan>
+                        </text>
+                        <path d="M301.182809,97.5203015 C301.131299,97.6482305 301.050864,97.7681851 300.941504,97.871209 L295.807391,102.707867 C295.393926,103.097378 294.723565,103.097378 294.310099,102.707867 C293.896634,102.318356 293.896634,101.686834 294.310099,101.297323 L298.88501,96.9874695 L294.336702,92.7026766 C293.923236,92.3131658 293.923236,91.6816439 294.336702,91.2921331 C294.750167,90.9026223 295.420528,90.9026223 295.833994,91.2921331 L301.074516,96.2290352 C301.448022,96.5809018 301.48412,97.1302615 301.182809,97.5203015 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-6)" transform="translate(297.692308, 97.000000) rotate(-360.000000) translate(-297.692308, -97.000000) "></path>
+                        <path d="M301.182809,171.520302 C301.131299,171.648231 301.050864,171.768185 300.941504,171.871209 L295.807391,176.707867 C295.393926,177.097378 294.723565,177.097378 294.310099,176.707867 C293.896634,176.318356 293.896634,175.686834 294.310099,175.297323 L298.88501,170.987469 L294.336702,166.702677 C293.923236,166.313166 293.923236,165.681644 294.336702,165.292133 C294.750167,164.902622 295.420528,164.902622 295.833994,165.292133 L301.074516,170.229035 C301.448022,170.580902 301.48412,171.130262 301.182809,171.520302 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-6)" transform="translate(297.692308, 171.000000) rotate(-360.000000) translate(-297.692308, -171.000000) "></path>
+                        <path d="M301.182809,245.520302 C301.131299,245.648231 301.050864,245.768185 300.941504,245.871209 L295.807391,250.707867 C295.393926,251.097378 294.723565,251.097378 294.310099,250.707867 C293.896634,250.318356 293.896634,249.686834 294.310099,249.297323 L298.88501,244.987469 L294.336702,240.702677 C293.923236,240.313166 293.923236,239.681644 294.336702,239.292133 C294.750167,238.902622 295.420528,238.902622 295.833994,239.292133 L301.074516,244.229035 C301.448022,244.580902 301.48412,245.130262 301.182809,245.520302 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-6)" transform="translate(297.692308, 245.000000) rotate(-360.000000) translate(-297.692308, -245.000000) "></path>
+                        <path d="M301.182809,319.520302 C301.131299,319.648231 301.050864,319.768185 300.941504,319.871209 L295.807391,324.707867 C295.393926,325.097378 294.723565,325.097378 294.310099,324.707867 C293.896634,324.318356 293.896634,323.686834 294.310099,323.297323 L298.88501,318.987469 L294.336702,314.702677 C293.923236,314.313166 293.923236,313.681644 294.336702,313.292133 C294.750167,312.902622 295.420528,312.902622 295.833994,313.292133 L301.074516,318.229035 C301.448022,318.580902 301.48412,319.130262 301.182809,319.520302 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-6)" transform="translate(297.692308, 319.000000) rotate(-360.000000) translate(-297.692308, -319.000000) "></path>
+                        <text id="Description-Copy-2" font-family="Muli-SemiBold, Muli" font-size="13.464" font-weight="500" line-spacing="13.464">
+                            <tspan x="88" y="168" fill="#333333">Hannah Cox House </tspan>
+                            <tspan x="90.3218563" y="189.524088" font-family="Muli" font-style="italic" font-weight="normal" fill="#999999">Residential, Re-model</tspan>
+                        </text>
+                        <text id="Description-Copy-2" font-family="Muli-SemiBold, Muli" font-size="13.464" font-weight="500" line-spacing="13.464">
+                            <tspan x="88" y="242" fill="#333333">499 Dejah Extension </tspan>
+                            <tspan x="90.3218563" y="263.524088" font-family="Muli" font-style="italic" font-weight="normal" fill="#999999">Commercial, Construction</tspan>
+                        </text>
+                        <text id="Description-Copy-2" font-family="Muli-SemiBold, Muli" font-size="13.464" font-weight="500" line-spacing="13.464">
+                            <tspan x="88" y="316" fill="#333333">718 Koss Fort</tspan>
+                            <tspan x="90.3218563" y="337.524088" font-family="Muli" font-style="italic" font-weight="normal" fill="#999999">Residential, Construction</tspan>
+                        </text>
+                        <polygon id="Rectangle-9-Copy-3" fill="#DDDDDD" opacity="0.600000024" points="28 136 301.106 136 301.106 137.122 28 137.122"></polygon>
+                        <polygon id="Rectangle-9-Copy-5" fill="#DDDDDD" opacity="0.600000024" points="0 62 329.106 62 329.106 63.122 0 63.122"></polygon>
+                        <polygon id="Rectangle-9-Copy-4" fill="#DDDDDD" opacity="0.600000024" points="28 210 301.106 210 301.106 211.122 28 211.122"></polygon>
+                        <polygon id="Rectangle-9-Copy-4" fill="#DDDDDD" opacity="0.600000024" points="28 284 301.106 284 301.106 285.122 28 285.122"></polygon>
+                        <text id="All-Projects" opacity="0.900000036" font-family="Muli-ExtraBold, Muli" font-size="13.464" font-weight="600" fill="#333333">
+                            <tspan x="28" y="37">All Projects</tspan>
+                        </text>
+                    </g>
+                    <text id="MV" font-family="Muli-ExtraBold, Muli" font-size="13.464" font-weight="600" fill="#FFFFFF">
+                        <tspan x="29.323048" y="103">MV</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
